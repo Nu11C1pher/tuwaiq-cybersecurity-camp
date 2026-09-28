@@ -3,27 +3,29 @@
 **Zaid Mohammed Albelaikhi**  
 Software Engineering student | Cybersecurity focus
 
-Welcome to my learning portfolio documenting hands-on cybersecurity training, practical labs, security reports and selected projects associated with my Tuwaiq journey.
+An independent personal learning portfolio for hands-on cybersecurity practice, lab documentation and selected prototypes. This is **not an official Tuwaiq Academy repository**.
 
-> Work in progress: entries are added as completed work is reviewed and prepared for public release. This is an independent personal portfolio, not an official Tuwaiq Academy repository.
+## Explore the portfolio
 
-## Portfolio roadmap
-
-| Area | Planned contents | Status |
+| Area | Contents | Publication status |
 | --- | --- | --- |
-| Application Security | OWASP Juice Shop, PortSwigger, Burp Suite, access control and business logic labs | Documentation pending |
-| Network Security | Traffic analysis, Wireshark, controls and technical reports | Documentation pending |
-| Mobile Security | Android tooling, JADX, Apktool, ADB, Frida, Objection and Ghidra | Documentation pending |
-| DFIR | Digital forensics and incident-response exercises | Documentation pending |
-| Secure Software Development | Security requirements, threat modelling and misuse/abuse cases | Documentation pending |
-| AMN AI | Project overview, architecture, accessible smart wearable prototype and demo | Documentation pending |
+| [Application Security](01-Application-Security/README.md) | OWASP Juice Shop, PortSwigger and business logic / authorization case-study queue | Draft / evidence pending |
+| [Network Security](02-Network-Security/README.md) | Network analysis and controls | Documentation pending |
+| [Mobile Security](03-Mobile-Security/README.md) | ADB, Android Studio, JADX, Apktool, Frida, Objection and Ghidra | Documentation pending |
+| [DFIR](04-DFIR/README.md) | Evidence handling and incident-response exercises | Documentation pending |
+| [Secure Software Development](05-Secure-Software-Development/README.md) | Requirements, misuse/abuse cases and threat modelling | Documentation pending |
+| [AMN AI](06-AMN-AI/README.md) | Smart-event safety, accessibility and security platform concept | Prototype concept / source pending |
 
-## Documentation standard
-Each published lab should explain its objective, authorized lab environment, tools, methodology, evidence, findings, remediation and key takeaways. Sensitive data, credentials, private targets and restricted course materials are excluded.
+## LinkedIn campaign
+- [Seven draft LinkedIn posts](linkedin/POSTS.md)
+- [Proposed publishing calendar (Riyadh time)](linkedin/SCHEDULE.md)
 
-## Connect
-- [LinkedIn](https://www.linkedin.com/) — portfolio updates to be linked when published.
-- [GitHub profile](https://github.com/z223110275)
+These are editable drafts and editorial dates. The repository **does not schedule or publish LinkedIn posts**.
 
-## Notes
-Only work personally completed or explicitly identified as a prototype will be presented as such. Screenshots and source code will be added after review for sharing permissions and sensitive information.
+## Documentation approach
+Use the [lab report template](LAB_TEMPLATE.md) to capture scope, objectives, tools, observations, redacted evidence, root causes, remediation and lessons learned. Publish only work that is permitted to share. Do not commit credentials, private lab endpoints, session tokens, restricted course material or personal data.
+
+## Status
+The initial sections are an organized portfolio framework, **not a claim that original lab evidence or full AMN AI source code has already been uploaded**. Actual reports and code will be added after review.
+
+[GitHub profile](https://github.com/z223110275)
