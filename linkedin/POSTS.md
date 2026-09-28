@@ -3,9 +3,11 @@
 These are editable drafts, not published posts. Avoid claiming completed demonstrations until evidence is uploaded.
 
 ## 1 — Tuwaiq cybersecurity journey
-I’m documenting my cybersecurity learning journey through a public technical portfolio, bringing together practical application security, networking, Android security tooling, DFIR, secure development and a security-focused event technology concept.
+I’m documenting my cybersecurity learning journey through a public technical portfolio, bringing together practical application security, networking, Android security tooling, digital forensics and incident response, and secure software development.
 
-My goal is to turn exercises into clear technical documentation: the objective, what I observed, why it matters and how to address it. Follow the repository as the reports and projects are reviewed and added.
+My goal is to turn exercises into clear technical documentation: the objective, what I observed, why it matters and how to address it. Follow the repository as reports and projects are reviewed and added.
+
+Explore the portfolio: https://github.com/z223110275/tuwaiq-cybersecurity-camp
 
 #TuwaiqAcademy #Cybersecurity #GitHub #LearningByDoing
 
@@ -37,15 +39,17 @@ I’m organizing related exercises and examples so the design rationale and veri
 
 #SecureSoftwareDevelopment #SoftwareEngineering #AppSec
 
-## 6 — AMN AI
-AMN AI is a prototype concept exploring how a smart visitor wearable and role-based operations platform could support safer, more accessible large-scale events.
+## 6 — Digital Forensics and Incident Response
+Digital Forensics and Incident Response (DFIR) is about more than identifying a security incident. It also involves preserving evidence, building a reliable timeline, documenting observations and understanding the steps needed to respond.
 
-The proposed experience brings together multilingual visitor flows, navigation cues, SOS alerts, medical response views and security-focused access controls. I’m documenting its architecture, privacy considerations, role permissions and prototype limitations.
+As part of my cybersecurity learning, I’m organizing my DFIR notes around evidence handling, investigation methodology, incident response stages and lessons learned.
 
-#AMNAI #Cybersecurity #Accessibility #Innovation
+DFIR section: https://github.com/z223110275/tuwaiq-cybersecurity-camp/tree/main/04-DFIR
+
+#DFIR #DigitalForensics #IncidentResponse #Cybersecurity
 
 ## 7 — GitHub portfolio recap
-I’ve organized my cybersecurity learning into a public GitHub portfolio with dedicated sections for application security, network security, mobile security, DFIR, secure software development and AMN AI.
+I’ve organized my cybersecurity learning into a public GitHub portfolio with dedicated sections for application security, network security, mobile security, DFIR and secure software development.
 
 Each section will grow with original reports, appropriately redacted evidence, and practical learning notes. I want the portfolio to show both the work and the reasoning behind it.
 
